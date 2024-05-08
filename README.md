@@ -1,4 +1,4 @@
-- 🔭 Atualmente sou estudante do Instituto Federal do Paraná no curso Informática Integrada para Web
+- 📔 Atualmente sou estudante do Instituto Federal do Paraná no curso Informática Integrada para Web
 ##
 <div align="center" >
 
