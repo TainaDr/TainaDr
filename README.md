@@ -3,7 +3,7 @@
 <div align="center" >
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TainaDr&layout=compact&theme=dracula&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/TainaDr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TainaDr&layout=compact&theme=dracula&bg_color=,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=ff79c6)](https://github.com/TainaDr/github-readme-stats)
 </div>
 
 <div align="center" style="display: inline_block"><br>
