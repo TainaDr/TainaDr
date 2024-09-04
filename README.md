@@ -6,8 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TainaDr/TainaDr/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -29,9 +27,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://www.linkedin.com/in/tain%C3%A1-leandra-dreissig-159593185/" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://www.instagram.com/_tainadreissig/" width="52" height="40" alt="instagram logo"  />
+  <img src="" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
