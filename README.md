@@ -24,15 +24,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://www.linkedin.com/in/tain%C3%A1-leandra-dreissig-159593185/" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://www.instagram.com/_tainadreissig/" width="52" height="40" alt="instagram logo"  />
-  <img src="" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
-
-
-###
