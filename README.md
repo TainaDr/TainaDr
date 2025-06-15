@@ -1,19 +1,19 @@
 
 <div align="center">
-- 💻 Técnica em Informática para Web | Instituto Federal do Paraná
+• 💻 Técnica em Informática para Web | Instituto Federal do Paraná
 <BR>
-- 📔 Graduanda em Inteligência Artificial - IA | Biopark
+• 📔 Graduanda em Inteligência Artificial - IA | Biopark
 <BR><BR>
   
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TainaDr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TainaDr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ##
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,dart,flutter,vue,figma,github,mysql,py,rust,typescript&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,dart,flutter,vue,figma,github,mysql,py,rust,typescript" alt="My Skills" />
   </a>
 </p>
 
