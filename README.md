@@ -52,9 +52,6 @@
   ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=androidstudio&logoColor=3DDC84)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=EFA600)
-### 🎮 Pacman Contribution Graph
-
-## 🎮 Meu gráfico de contribuições estilo Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TainaDr/TainaDr/output/pacman-contribution-graph-dark.svg">
