@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <h3>Olá, meu nome é {Tainá}!</h3>
 
->  Técnica em Informática para Web | Instituto Federal do Parana.<br>
->  Graduanda em Inteligência Artificial - IA | Biopark
+>  Técnica em Informática para Web | Instituto Federal do Paraná <br>
+>  Graduanda em Inteligência Artificial (3° Período) - IA | Biopark
 
 <p align="left">
   💌 Entre em contato:
@@ -31,13 +31,16 @@
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=css)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-  ![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter) 
+  ![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js) 
 
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  
 <p><b>🛠️ Utilidades:</b></p>
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
@@ -47,6 +50,8 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apacheairflow)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <p><b>🧰 Ferramentas de Desenvolvimento:</b></p>
 
@@ -55,6 +60,7 @@
   ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=androidstudio&logoColor=3DDC84)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=EFA600)
+  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab)
 
 <br>
 
