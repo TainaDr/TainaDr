@@ -25,7 +25,7 @@
 
 <h2 align="left">Skills</h2>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=TainaDr&show_icons=true&title_color=d07796&text_color=BC6382&icon_color=d07796&bg_color=ffffff&cache_seconds=2300" alt="Status do GitHub" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=TainaDr&theme=rose-pine&hide_border=true&border_radius=10&stroke=d07796&ring=d07796&fire=d07796" />
 
 <p><b>📦 Aplicações e Dados:</b></p>
   
