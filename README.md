@@ -53,6 +53,13 @@
   ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apacheairflow)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
+<p><b>🤖 Inteligência Artificial & Ciência de Dados</b></p>
+
+  ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=openai&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn&logoColor=F7931E)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logoColor=EE4C2C)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
+
 <p><b>🧰 Ferramentas de Desenvolvimento:</b></p>
 
   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=1B66B1)
