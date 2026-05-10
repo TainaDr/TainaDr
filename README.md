@@ -25,7 +25,7 @@
 
 <h2 align="left">Skills</h2>
 <br>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=TainaDr&theme=rose-pine&hide_border=true&border_radius=10&stroke=d07796&ring=d07796&fire=d07796" />
+<img align="right" src="https://streak-stats.demolab.com/?user=TainaDr&theme=rose-pine&hide_border=true&border_radius=10&stroke=d07796&ring=d07796&fire=d07796" />
 
 <p><b>📦 Aplicações e Dados:</b></p>
   
