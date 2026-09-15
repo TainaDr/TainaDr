@@ -27,30 +27,38 @@
 <br>
 <img align="right" src="https://streak-stats.demolab.com/?user=TainaDr&theme=rose-pine&hide_border=true&border_radius=10&stroke=d07796&ring=d07796&fire=d07796" />
 
+
 <p><b>📦 Aplicações e Dados:</b></p>
-  
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=css)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter) 
-  ![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js) 
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=009688)
 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
+  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3FCF8E)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  
-<p><b>🛠️ Utilidades:</b></p>
+  ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver&logoColor=382923)
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+<p><b>🛠️ Análises:</b></p>
+
   ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=F2C811)
+  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel&logoColor=217346)
 
-<p><b>🚀 DevOps:</b></p>
+<p><b>🚀 DevOps & Engenharia de Dados:</b></p>
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apacheairflow)
+  ![Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark&logoColor=E25A1C)
+  ![dbt](https://img.shields.io/badge/-dbt-333333?style=flat&logo=dbt&logoColor=FF694B)
+  ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n&logoColor=EA4B71)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <p><b>🤖 Inteligência Artificial & Ciência de Dados</b></p>
@@ -59,6 +67,8 @@
   ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn&logoColor=F7931E)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logoColor=EE4C2C)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
+  ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain&logoColor=1C3C3C)
+  ![Langfuse](https://img.shields.io/badge/-Langfuse-333333?style=flat&logo=langfuse&logoColor=white)
 
 <p><b>🧰 Ferramentas de Desenvolvimento:</b></p>
 
@@ -67,10 +77,10 @@
   ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=androidstudio&logoColor=3DDC84)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=EFA600)
+  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=00C4CC)
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab)
 
 <br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TainaDr/TainaDr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TainaDr/TainaDr/output/pacman-contribution-graph.svg">
